@@ -875,6 +875,7 @@ footer {
   padding-top: 20px;
   padding-bottom: 30px;
   padding-left: 30px;
+  display: block;
 }
 
 .agreement-link {
@@ -887,7 +888,7 @@ footer {
   border-radius: 2px;
   position: absolute;
   top: 50%;
-  transform: translateY(165%) translateX(90%);
+  transform: translateY(230%) translateX(-2700%);
   cursor: pointer;
 }
 
