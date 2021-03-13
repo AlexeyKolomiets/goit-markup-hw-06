@@ -890,6 +890,7 @@ footer {
   top: 50%;
   transform: translateY(230%) translateX(-2700%);
   cursor: pointer;
+  z-index: 1;
 }
 
 .check-icon use {
