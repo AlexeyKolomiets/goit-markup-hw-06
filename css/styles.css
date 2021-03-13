@@ -765,7 +765,22 @@ footer {
   width: 100%;
 }
 
-.modal-label {
+.label-phone {
+  margin-top: 10px;
+  display: block;
+}
+
+.label-mail {
+  margin-top: 10px;
+  display: block;
+}
+
+.label-comment {
+  margin-top: 10px;
+  display: block;
+}
+
+.modal-label-name {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -774,7 +789,6 @@ footer {
   letter-spacing: 0.01em;
   color: var(--gray-text);
   margin-bottom: 4px;
-  margin-top: 10px;
 }
 
 .modal .appointment-input {
@@ -872,7 +886,7 @@ footer {
   border-radius: 2px;
   position: absolute;
   top: 50%;
-  transform: translateY(225%) translateX(90%);
+  transform: translateY(165%) translateX(90%);
   cursor: pointer;
 }
 
